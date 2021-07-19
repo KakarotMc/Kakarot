@@ -37,7 +37,7 @@
 <h3 align="left">Support:</h3>
 
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=trailblazer132&show_icons=true&locale=en&layout=compact" alt="trailblazer132" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trailblazer132&show_icons=true&locale=en&layout=compact" alt="trailblazer132" /></p>
 
 
 
