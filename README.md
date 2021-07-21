@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **uditjeet@gmail.com**
 
-- ⚡ Fun fact **I sleep less**
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trailblazer132&label=Profile%20views&color=0e75b6&style=flat" alt="trailblazer132" /> </p>
 
