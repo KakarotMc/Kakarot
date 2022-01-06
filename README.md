@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **React.js**
 
-- 🌱 I’m currently learning **ReactJs, React Native and UI/UX Designing**
+- 🌱 I’m currently learning **Machine Learning Basics**
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
