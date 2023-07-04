@@ -4,6 +4,7 @@
 <!--<p align="center"> <iframe src="https://giphy.com/embed/Lny6Rw04nsOOc" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe> </p> -->
 <!--<p align="center"> <img src="https://giphy.com/embed/Lny6Rw04nsOOc" alt="trailblazer132" /> </p> -->
 <div align="center">
+
 ![A passionate frontend designer along with IoT and ML Enthusiast](https://media.giphy.com/media/xFkgeu7dhfgqqxJqmj/giphy.gif)
 </div>
 
@@ -17,14 +18,10 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uditjeet@gmail.com)
-  
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white?Link=mailto:uditjeet@gmail.com)
-  
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white?Link=https://www.linkedin.com/in/udit-nath-b54305173/)
-</p>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/udit-nath-b54305173/)
+
 
 <h3 align="left">My Tech Stack:</h3>
 
