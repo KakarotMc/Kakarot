@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Udit Nath</h1>
-<h3 align="center">A passionate frontend designer and developer with an experience in the Arduino domain.</h3>
 
 <!-- <p align="center"> <img src="https://github.com/TrailblaZer132/GraphicDesign/blob/main/Personal/Asset%205.png" alt="trailblazer132" /> </p> -->
 <!--<p align="center"> <iframe src="https://giphy.com/embed/Lny6Rw04nsOOc" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe> </p> -->
-<p align="center"> <img src="https://giphy.com/embed/Lny6Rw04nsOOc" alt="trailblazer132" /> </p>
+<!--<p align="center"> <img src="https://giphy.com/embed/Lny6Rw04nsOOc" alt="trailblazer132" /> </p> -->
+![A passionate frontend designer along with IoT and ML Enthusiast](https://media.giphy.com/media/xFkgeu7dhfgqqxJqmj/giphy.gif)
+
 
 
 - 🔭 I’m currently working on **Artificial Intelligence**
@@ -58,17 +59,17 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 
-<h3 align="left">Support:</h3>
+![Profile views](https://komarev.com/ghpvc/?username=TrailblaZer132)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TrailblaZer132)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TrailblaZer132&show_icons=true)  
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TrailblaZer132&bg_color=d1faff&color=654c9e&line=00aaff&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=TrailblaZer132)  
 
-![Profile views](https://komarev.com/ghpvc/?username=TrailblaZer132)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TrailblaZer132&bg_color=d1faff&color=654c9e&line=00aaff&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 
 <!-- https://github.com/Ileriayo/markdown-badges -->
 <!-- https://arturssmirnovs.github.io/github-profile-readme-generator/ -->
