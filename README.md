@@ -29,12 +29,12 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-[![Data Structures and Algorithms](https://img.shields.io/badge/Data%20Structures%20and%20Algorithms-blue)]
-
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+![Data Structures and Algorithms](https://img.shields.io/badge/Data%20Structures%20and%20Algorithms-blue)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![Stylus](https://img.shields.io/badge/-Stylus-%23333333?style=flat-square&logo=stylus)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%231a202c?style=flat-square&logo=tailwind-css)
@@ -64,11 +64,11 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TrailblaZer132&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=TrailblaZer132)  
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TrailblaZer132&bg_color=d1faff&color=654c9e&line=00aaff&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=TrailblaZer132)  
 
-![Profile views](https://gpvc.arturio.dev/TrailblaZer132)  
+![Profile views](https://komarev.com/ghpvc/?username=TrailblaZer132)
 
 <!-- https://github.com/Ileriayo/markdown-badges -->
 <!-- https://arturssmirnovs.github.io/github-profile-readme-generator/ -->
