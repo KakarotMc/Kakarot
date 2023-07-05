@@ -12,18 +12,13 @@
 </div>
 
 
-<div align="center">
 - 🔭 I’m currently working on **Artificial Intelligence**
 - 🌱 I’m currently learning **Machine Learning Basics**
 - 👯 I’m looking to collaborate on **Web Development Projects and NLP**
 - 👨‍💻 All of my projects are available at [github.com/TrailblaZer132/TrailblaZer132](github.com/TrailblaZer132/TrailblaZer132)
 - 💬 Ask me about **Frontend Web development | Arduino based projects | Machine Learning**
-</div>
-<!--
-<h2 style="color: #44AEFB">🤝 Connect with me</h2>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uditjeet@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/udit-nath-b54305173/) -->
+
 
 <div align="center" style="margin:15px;">
   
@@ -34,7 +29,6 @@
 
 </div>
 
-<div align="center">
   
 <h2 style="color: #44AEFB">👨🏻‍💻 My Tech stack</h2>
 
@@ -72,7 +66,6 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-</div>
 
 
 
@@ -117,20 +110,7 @@
 </div>
 <!--  End Stats Cards -->
 
-<!-- Begin Footer -->
 
-<div class="footer" align="center" style="margin:15px;">
-    <a href="https://www.youtube.com/channel/UCq1qtlU3urNPLd5yIwhht1w" target="_blank">
-        <img  style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531650-698ef1b1-9cbd-4b4f-96ef-5a2ec4b5d7e6.svg" alt="youtube" width="40px"/>
-    </a>
-    <a href="https://programming-gym.blogspot.com/" target="_blank">
-        <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531458-b5dfeb1b-bad5-4dfa-909a-2e402262db9a.svg" alt="blogger" width="40px"/>
-    </a>
-    <a href="mailto:gym4programming@gmail.com" target="_blank">
-        <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531383-ddb2b774-5bb9-491c-b601-4a4a7d9792fb.svg" alt="gmail" width="40px"/>
-    </a>
-</div>
-<!-- End Footer -->
 
 
 
