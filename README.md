@@ -20,17 +20,6 @@
 
 <br>
 
-
-<div align="center">
-  
-<h2 style="color: #44AEFB">🤝 Connect with me</h2>
-  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uditjeet@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/udit-nath-b54305173/)
-
-</div>
-
-<br>
   
 <h2 style="color: #44AEFB">👨🏻‍💻 My Tech stack</h2>
 
@@ -111,6 +100,18 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TrailblaZer132&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 </div>
 <!--  End Stats Cards -->
+<br>
+
+<div align="center">
+  
+<h2 style="color: #44AEFB">🤝 Connect with me</h2>
+  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uditjeet@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/udit-nath-b54305173/)
+
+</div>
+
+<br>
 
 
 
