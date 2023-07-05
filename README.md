@@ -88,7 +88,7 @@
 <!-- Change the value after ?username= to your GitHub username. -->
 <div class="stats" align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=TrailblaZer132)
+![Profile views](https://komarev.com/ghpvc/?username=TrailblaZer132&style=for-the-badge)
 
 ![Khaled Badran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TrailblaZer132&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
 
