@@ -12,13 +12,13 @@
 </div>
 
 
-
+<div align="center">
 - 🔭 I’m currently working on **Artificial Intelligence**
 - 🌱 I’m currently learning **Machine Learning Basics**
 - 👯 I’m looking to collaborate on **Web Development Projects and NLP**
 - 👨‍💻 All of my projects are available at [github.com/TrailblaZer132/TrailblaZer132](github.com/TrailblaZer132/TrailblaZer132)
 - 💬 Ask me about **Frontend Web development | Arduino based projects | Machine Learning**
-
+</div>
 <!--
 <h2 style="color: #44AEFB">🤝 Connect with me</h2>
 
@@ -32,7 +32,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/udit-nath-b54305173/)
 
 </div>
-
+<div align="center">
 <h2 style="color: #44AEFB">👨🏻‍💻 My Tech stack</h2>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -69,8 +69,8 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
+</div>
 
-![Profile views](https://komarev.com/ghpvc/?username=TrailblaZer132)
 
 
 
@@ -91,6 +91,8 @@
 <!-- Statistics -->
 
 <h2 style="color: #44AEFB">📊 Statistics</h2>
+
+![Profile views](https://komarev.com/ghpvc/?username=TrailblaZer132)
 
 ![stats_banner](https://15d.co/wp-content/uploads/2018/04/3loaders.gif)
 
