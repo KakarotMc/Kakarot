@@ -26,13 +26,16 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/udit-nath-b54305173/) -->
 
 <div align="center" style="margin:15px;">
+  
 <h2 style="color: #44AEFB">🤝 Connect with me</h2>
   
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uditjeet@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/udit-nath-b54305173/)
 
 </div>
+
 <div align="center">
+  
 <h2 style="color: #44AEFB">👨🏻‍💻 My Tech stack</h2>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -92,8 +95,6 @@
 
 <h2 style="color: #44AEFB">📊 Statistics</h2>
 
-![Profile views](https://komarev.com/ghpvc/?username=TrailblaZer132)
-
 ![stats_banner](https://15d.co/wp-content/uploads/2018/04/3loaders.gif)
 
 <!-- Begin Stats Cards -->
@@ -102,6 +103,8 @@
 <!-- Streak Stats: https://github.com/denvercoder1/github-readme-streak-stats -->
 <!-- Change the value after ?username= to your GitHub username. -->
 <div class="stats" align="center">
+
+![Profile views](https://komarev.com/ghpvc/?username=TrailblaZer132)
 
 ![Khaled Badran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TrailblaZer132&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
 
