@@ -15,7 +15,7 @@
 - 🔭 I’m currently working on **Artificial Intelligence**
 - 🌱 I’m currently learning **Machine Learning Basics**
 - 👯 I’m looking to collaborate on **Web Development Projects and NLP**
-- 👨‍💻 All of my projects are available at [github.com/TrailblaZer132/TrailblaZer132](github.com/TrailblaZer132/TrailblaZer132)
+- 👨‍💻 All of my projects are available at (https://github.com/TrailblaZer132?tab=repositories)
 - 💬 Ask me about **Frontend Web development | Arduino based projects | Machine Learning**
 
 <br>
