@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Udit Nath</h1>
+<h1 align="center">Hi 👋, I'm Moksh Choudhary</h1>
 
 <!-- <p align="center"> <img src="https://github.com/TrailblaZer132/GraphicDesign/blob/main/Personal/Asset%205.png" alt="trailblazer132" /> </p> -->
 <!--<p align="center"> <iframe src="https://giphy.com/embed/Lny6Rw04nsOOc" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe> </p> -->
